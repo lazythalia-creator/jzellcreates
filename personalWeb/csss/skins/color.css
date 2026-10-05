@@ -1,0 +1,18 @@
+:root
+{
+    --bistre: #210100;
+    --goldfinch: #e6a341;
+    --butter: #fece79;
+    --indian-red: #b14a36;
+    --garnet: #8c0902;
+
+    --skin-color: var(--garnet);            
+    --page-bg: #fff4dc;                     
+    --text-dark: var(--bistre);             
+    --text-soft: #4a1f12;                   
+    --sidebar-bg: var(--bistre);            
+
+    --card-bg: #fffaf0;                     
+    --track-bg: #f6dfae;                   
+    --line: rgba(230, 163, 65, 0.6);        
+}
